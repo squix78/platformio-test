@@ -1,0 +1,9 @@
+[submodule "lib/json-streaming-parser"]
+	path = lib/json-streaming-parser
+	url = https://github.com/squix78/json-streaming-parser.git
+[submodule "lib/esp8266-weather-station"]
+	path = lib/esp8266-weather-station
+	url = https://github.com/squix78/esp8266-weather-station.git
+[submodule "lib/esp8266-oled-ssd1306"]
+	path = lib/esp8266-oled-ssd1306
+	url = https://github.com/squix78/esp8266-oled-ssd1306.git
